@@ -4,7 +4,7 @@ public class Boletin12 {
 
     public static void main(String[] args) {
         
-        
+        System.out.println("Buenas");
         Garaje par = new Garaje();
         Garaje par2 = new Garaje();
         Garaje par3 = new Garaje();
@@ -13,7 +13,6 @@ public class Boletin12 {
         Garaje par6 = new Garaje();
 
         par.entraCoche();
-        par.prueba(); 
         par2.entraCoche();
         par3.entraCoche();
         par4.entraCoche();
