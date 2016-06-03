@@ -196,12 +196,12 @@ public class RESTAR501 extends javax.swing.JFrame {
       int valor;
       int newValor;
      
-      if(tengo activado el textarea1){
+     /* if(tengo activado el textarea1){
        valor = Integer.parseInt(areatext.getText());
       newValor = valor -20;
       areatext.setText(Integer.toString(newValor));}
       else 
-        areatext2
+        areatext2*/
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
